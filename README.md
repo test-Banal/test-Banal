@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Etudiant en Informatique, a l'ecole 42. 
+
+# Technologies
+Python, C, C++, SQL, HTML, CSS
+Docker, Linux, Git
+
