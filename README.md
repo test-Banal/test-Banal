@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Etudiant en Informatique, a l'ecole 42. 
+IT student, at 42 Paris school. 
 
 # Technologies
 Python, C, C++, SQL, HTML, CSS
